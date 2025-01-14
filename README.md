@@ -15,6 +15,11 @@ cd YouTube-Downloader
 python main.py
 ```
 
+
+**Screenshot**
+
+![](https://raw.githubusercontent.com/hackesofice/Z/refs/heads/main/YouTube-Tool/IMG_20250114_225414.jpg)
+
 # Features 
 1. Download Youtube Videos
 2. Download Youtube Audio
@@ -24,10 +29,6 @@ python main.py
 # Upcoming Features 
 we are working to fix some buggs, and trying to add some new features like playlist download etc.
 
-
-**Screenshot**
-
-![](https://raw.githubusercontent.com/hackesofice/Z/refs/heads/main/YouTube-Tool/IMG_20250114_225414.jpg)
 
 # `Note -`
 The Developer isn't Responsible for any types of Controversy and we don't take any Responsibility for any misuse.
