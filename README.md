@@ -15,6 +15,12 @@ cd YouTube-Downloader
 python main.py
 ```
 
+# Features 
+1. Download Youtube Videos
+2. Download Youtube Audio
+3. Download entire Playlist (Comming Soon)
+
+   
 # Upcoming Features 
 we are working to fix some buggs, and trying to add some new features like playlist download etc.
 
