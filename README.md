@@ -1,6 +1,8 @@
 # Declaimer 
 This is an simple tool for downloading videos and audio also from YouTube, The tool comes with lots of animations and Features.
 
+[![Hits](https://hits.sh/github.com/hackesofice/YouTube-Downloader.git.svg)](https://hits.sh/github.com/hackesofice/YouTube-Downloader.git/)
+
 # How To Use
 The tool is designed for simplicity, Performance and Durability. in this way user's can simply copy and paste the below commands into his terminal and it will automatically able to handle all setup.
 
