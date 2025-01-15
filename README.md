@@ -1,9 +1,11 @@
 # Declaimer 
 This is an simple tool for downloading videos and audio also from YouTube, The tool comes with lots of animations and Features.
 
-
+<p>
+   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=HEY+DEAR+WELCOME+TO+THE+REPOSITORY+;PLEASE+DON'T+FORGET+TO+STAR+%E2%AD%90+US;REPORT+FOR+ANY+ISSUES+;FOLLOW+US+ON+YOUTUBE;DOWNLOAD+UNLIMITED+SONGS+)](https://git.io/typing-svg)
 
+</p>
 
 [![Hits](https://hits.sh/github.com/hackesofice/YouTube-Downloader.git.svg)](https://hits.sh/github.com/hackesofice/YouTube-Downloader.git/)
 
