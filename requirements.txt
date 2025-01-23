@@ -1,0 +1,4 @@
+requests
+lolcat
+colored
+shutil
