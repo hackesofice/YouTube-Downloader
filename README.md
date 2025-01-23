@@ -19,7 +19,7 @@ The tool is designed for simplicity, Performance and Durability. in this way use
 termux-setup-storage
 pkg install python -y
 pkg install git -y
-pip install requests termcolor lolcat -y
+pip install -r requirements.txt -y
 git clone https://github.com/hackesofice/YouTube-Downloader.git
 cd YouTube-Downloader
 python main.py
