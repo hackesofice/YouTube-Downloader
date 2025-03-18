@@ -1,2 +1,2 @@
-from yt_runner import yt_downloader
-yt_downloader.start()
+from YT_DOWN import Downloader
+Downloader.start()
