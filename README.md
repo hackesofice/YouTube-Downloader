@@ -20,6 +20,8 @@ termux-setup-storage
 pkg install python -y
 pkg install git -y
 pip install -r requirements.txt -y
+gem install lolcat
+gem update --system 3.6.7
 git clone https://github.com/hackesofice/YouTube-Downloader.git
 cd YouTube-Downloader
 python main.py
