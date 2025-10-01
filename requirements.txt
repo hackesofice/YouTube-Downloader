@@ -1,5 +1,7 @@
 requests
+termcolor
 lolcat
 colored
 shutil
 pytube
+
